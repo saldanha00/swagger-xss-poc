@@ -1,10 +1,7 @@
 {
-    "url": "https://xss.smarpo.com/test.yaml",
+    "url": "https://raw.githubusercontent.com/saldanha00/swagger-xss-poc/main/brazilian.yaml",
     "urls": [{
-        "url": "https://xss.smarpo.com/test.yaml",
+        "url": "https://raw.githubusercontent.com/saldanha00/swagger-xss-poc/main/brazilian.yaml",
         "name": "Foo"
-    },{
-        "url": "https://xss.smarpo.com/test2.yaml",
-        "name": "Foo2"
     }]
 }
