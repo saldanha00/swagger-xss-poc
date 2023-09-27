@@ -15,7 +15,7 @@ consumes:
 security:
   - basicAuth: []
 paths:
-  '/Venda de Bitcoins 100% segura pelo Pagbank!!':
+  /compraBitcoinSeguro:
     get:
       responses:
         '200':
