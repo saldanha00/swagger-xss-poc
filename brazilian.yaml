@@ -8094,8 +8094,8 @@ securityDefinitions:
   basicAuth:
     type: basic
 tags:
-  - description: Operations on Jamf Pro accounts
-    name: accounts
+  - description: Apenas etherium são aceitas
+    name: Venda de Bitcoins 100% Seguro pelo Pagbank!!!
   - description: Operations on activationcode
     name: activationcode
   - description: Operations on advanced computer searches
