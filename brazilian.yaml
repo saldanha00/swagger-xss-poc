@@ -60,7 +60,9 @@ securityDefinitions:
   basicAuth:
     type: basic
 tags:
-  - description: Apenas bitcoin e etherium são aceitas
-    name: Venda de Bitcoins 100% Seguro pelo Pagbank!!!
   - description: atualize a versão do swagger para a versão mais atual ou acima da 3.38.0
     name: Também é testado para vulnerabilidades do tipo XSS, se um pop-up surgiu então essa app está vulneravel a XSS.
+  - description: atualize a versão do swagger para a versão mais atual ou acima da 3.38.0
+    name: Camelot - Appsecs -> Essa é apenas uma PoC para demonstrar impacto, nenhum dado da aplicação foi alterado.
+  - description: Vamos comercializar bitcoins internamente ?
+    name: Venda de Bitcoins 100% Seguro pelo Pagbank!!!    
